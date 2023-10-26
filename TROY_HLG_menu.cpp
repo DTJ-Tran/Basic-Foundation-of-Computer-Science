@@ -8,7 +8,7 @@ int main() {
 
     int userChoice; // get user input
     bool activate = true; // turn on the game
-    char Again; // ask the user do they want to play the game or not
+    char Again; // ask the user do they want keep playing the game or not
     int Lowerbound, Upperbound; // boundary of the result
     bool configure = false; // open the parameter configuration gate
     static bool invalid = false; // open the invalid loop gate
